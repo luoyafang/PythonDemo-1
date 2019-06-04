@@ -9,4 +9,5 @@ print("小桥流水人家")
 hello~
 hello
 1
-
+print("小桥流水人家")
+hello~
